@@ -1,0 +1,19 @@
+{
+    "name": "flaggi",
+    "version": "1.0.0",
+    "description": "Simple Flag Icons by taiga Bot",
+    "main": "generate.js",
+    "repository": "https://github.com/taigahq/flaggi",
+    "author": "OfficialCRUGG <ich@crugg.de>",
+    "license": "CC BY-SA 4.0",
+    "private": false,
+    "scripts": {
+        "gen": "node generate.js"
+    },
+    "devDependencies": {
+        "pn": "^1.1.0",
+        "progress": "^2.0.3",
+        "sharp": "^0.29.3",
+        "svg2png": "^4.1.1"
+    }
+}
