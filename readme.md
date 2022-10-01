@@ -1,4 +1,4 @@
-# taiga flaggi
+# @blazingworks/flags
 
 ## How to use the icons
 
